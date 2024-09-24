@@ -15,7 +15,7 @@ Provides a custom function to selectively extract data from a JSON or GraphQL AP
 To add this custom function to your spreadsheet, follow this procedure:
 
 1. Open the spreadsheet in your browser.
-2. Select the `Tools > Script editor` menu option. This will open a script editor window. You will need to copy and paste the function code into a blank script file.
+2. Select the `Extensions > Apps Script` menu option. This will open a script editor window. You will need to copy and paste the function code into a blank script file.
 4. Copy the entire contents of the IMPORTJSONAPI.gs file. The raw file can found [here](https://raw.githubusercontent.com/qeet/IMPORTJSONAPI/master/IMPORTJSONAPI.gs). 
 5. Paste this into the blank Code.gs script file or another blank script file that you have created.
 6. Now save the script by clicking the `Save project` button.
